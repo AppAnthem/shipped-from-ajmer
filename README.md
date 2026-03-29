@@ -151,6 +151,11 @@ Bot Server (port 3001) ◄──── WebSocket ────► Browser (live s
 | Team | ₹7,999/mo | 5 seats, shared workspace |
 | White Label | ₹15K–35K/mo | Custom branding, dedicated support |
 
+### What's Next
+
+- MS Teams support
+- Zoom support
+
 ---
 
 ## Why This Matters
