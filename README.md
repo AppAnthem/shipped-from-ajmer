@@ -2,7 +2,9 @@
 
 > Two production products. One solo builder. Built from Ajmer, Rajasthan.
 
-I'm **Himanshu Dadhich** — 15+ years in Data Analytics (ex-GE/Cytiva, Sr. Manager), now building full-stack products solo from a Tier-2 city.
+I'm **Himanshu Dadhich**.
+
+I was born in Ajmer, Rajasthan. Did my schooling here. Walked these streets before I ever wrote a line of code. Then life took me to Bangalore — 15 years in Data Analytics, building at GE and Cytiva, managing teams, solving enterprise-scale problems. I had the career. I had the city everyone moves to. 4 years ago, I moved back to Ajmer — still with Cytiva, working remotely. But last year, the builder in me woke up. I wanted to create something of my own. AjmerAstro carries this city's name because this platform was imagined here, built here, and shipped from here. Proof that the next wave of builders isn't just coming from metros — it's coming from everywhere. All you need is conviction, a laptop, and Claude.
 
 These aren't side projects or weekend experiments. These are **production-grade platforms** — architected, secured, tested, and shipped.
 
