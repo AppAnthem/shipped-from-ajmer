@@ -88,6 +88,17 @@ Swiss Ephemeris (pyswisseph)
 - PDF report generation (15+ report types)
 - Multi-language support (12+ languages)
 
+### How AjmerAstro is Different
+
+Standing on the shoulders of platforms like AstroSage and AstroTalk, AjmerAstro brings a modern, AI-native approach to an industry running on legacy technology.
+
+- **Triple astrology system** — Vedic + KP + Western in one platform
+- **Own Astro Engine, not API wrappers** — Unlike most astrology apps that depend on third-party APIs (like Prokerala, Veda API) for calculations, AjmerAstro runs its own Python FastAPI engine powered by Swiss Ephemeris. Zero dependency on external API costs — a massive cost advantage at scale
+- **API-as-a-Service on the roadmap** — Since the core astro-engine is built in-house, the plan is to offer it as a standalone Astrology API service for other developers and platforms — similar to what Prokerala offers, but with KP + Western support on top of Vedic
+- **Enterprise-grade security** — RLS, rate limiting, penetration-tested, 76 security tests. Astrology apps rarely take security this seriously
+- **AI-native architecture** — Built ground-up for Claude API integration, not AI bolted onto legacy code
+- **Modern stack** — Next.js 16, React 19, Tailwind v4, Supabase — while competitors run on decade-old codebases
+
 ---
 
 ## ZettlAI — AI Meeting Notes That Actually Work
