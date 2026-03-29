@@ -92,9 +92,9 @@ Swiss Ephemeris (pyswisseph)
 
 ## ZettlAI — AI Meeting Notes That Actually Work
 
-**Status:** Built & Ready for Launch
+**Status:** Stealth Mode
 
-An AI-powered meeting notes platform — paste a Google Meet link, a bot joins your call, records, transcribes with Whisper, and generates structured notes with Claude.
+An AI-powered meeting notes platform currently in stealth. Paste a Google Meet link, a bot joins your call, records, transcribes with Whisper, and generates structured notes with Claude.
 
 ### What it does
 
